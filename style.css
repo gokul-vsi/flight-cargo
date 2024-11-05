@@ -1,0 +1,41 @@
+*{
+    font-family: "Poppins", serif !important;
+}
+.logo {
+    /* width: 112px;
+    height: 112px;
+    object-fit: contain;
+    mix-blend-mode: multiply; */
+}
+#Home{
+    border-radius: 10px;
+}
+
+.nav-item:hover{
+    border-bottom: 2px solid blue;
+    
+}
+.section-1{
+    width: 100px;
+    height: 80vh;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),url(./images/image2.png);
+    background-position: center;
+    background-size: cover ;
+}
+.home-1{
+  color: #fff;
+  font-size: 45px;
+  font-weight: bolder;
+  filter: drop-shadow(5px 5px 10px #000);
+}
+.home-2{
+    color: #fff;
+  font-size: 20px;
+  font-weight: bolder;
+  filter: drop-shadow(5px 5px 10px #000);
+}
+.home-3{
+    color:  #fff;
+    font-weight: bolder;
+    filter: drop-shadow(5px 5px 10px #000);
+}
